@@ -4,7 +4,7 @@ This project is a user management frontend built with React, TypeScript, and Vit
 If Your are Using VSCode please press Ctrl+Shift+V to open the markdown preview feature to easily read this file
 ## Demo
 
-[![Project Demo GIF](./Klimb_IO/src/assets/GIF/demo.gif)](./src/assets/GIF/demo.gif)
+[![Project Demo GIF](./Klimb_Shivansh/src/assets/GIF/demo.gif)](./src/assets/GIF/demo.gif)
 
 ## Figma Design
 
@@ -23,7 +23,7 @@ You can view the design mockups for this project on Figma:
     npm install
     ```
 
-    [![Installation Demo GIF](./Klimb_IO/src/assets/GIF/installation.gif)](./src/assets/GIF/installation.gif)
+    [![Installation Demo GIF](./Klimb_Shivansh/src/assets/GIF/installation.gif)](./src/assets/GIF/installation.gif)
 
 2.  **Run the Development Server:**
 
@@ -41,7 +41,7 @@ Here's a breakdown of the key pages and their functionalities:
 
 ### 1. Landing Page / New User Form
 
-[![New User Form Placeholder](./Klimb_IO/src/assets/screenshots/new-user.png)](./src/assets/screenshots/new-user.png)
+[![New User Form Placeholder](./Klimb_Shivansh/src/assets/screenshots/new-user.png)](./src/assets/screenshots/new-user.png)
 
 This page provides a form for adding new users to the system. The form includes fields for:
 
@@ -57,7 +57,7 @@ Users can input the details for a new user and submit the form to add them to th
 
 ### 2. Manage Users Page
 
-[![Manage Users Page Placeholder](./Klimb_IO/src/assets/screenshots/manage-user.png)](./src/assets/screenshots/manage-user.png)
+[![Manage Users Page Placeholder](./Klimb_Shivansh/src/assets/screenshots/manage-user.png)](./src/assets/screenshots/manage-user.png)
 
 This page displays a list of existing users in a table format. Key features include:
 
@@ -67,7 +67,7 @@ This page displays a list of existing users in a table format. Key features incl
 
 ### 3. User Details Dialog
 
-[![User Details Dialog Placeholder](./Klimb_IO/src/assets/screenshots/user-details.png)](./src/assets/screenshots/user-details.png)
+[![User Details Dialog Placeholder](./Klimb_Shivansh/src/assets/screenshots/user-details.png)](./src/assets/screenshots/user-details.png)
 
 This dialog appears when a user clicks on a row in the "Manage Users" table. It presents a detailed view of the selected user's information, including:
 
@@ -82,7 +82,7 @@ The dialog also includes an "Edit" button to navigate to the "Edit User" page fo
 
 ### 4. Edit User Page
 
-[![Edit User Page Placeholder](./Klimb_IO/src/assets/screenshots/edit-user.png)](./src/assets/screenshots/edit-user.png)
+[![Edit User Page Placeholder](./Klimb_Shivansh/src/assets/screenshots/edit-user.png)](./src/assets/screenshots/edit-user.png)
 
 This page allows users to modify the details of an existing user. It contains pre-filled form fields with the current user's information, enabling users to update and save changes.
 
